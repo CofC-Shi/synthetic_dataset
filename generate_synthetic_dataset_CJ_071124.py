@@ -164,6 +164,8 @@ white_noise_level = 5e-7
 # Sets the factor by which the periodic noise amplitudes are multiplied by.
 # In real data, different measuring frequencies have different noise levels:
 # 2.2e-5 --> 3 MHz Measuring Freq
+# 8.52e-5 --> 1 MHz Measuring Freq
+# 1.35e-4 --> 500 kHz Measuring Freq
 periodic_noise_level = 2.2e-5 
 nl = '2_2e-5'
 
